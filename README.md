@@ -7,7 +7,7 @@
                           console.log("Let's Connect!!")
                           return {
                                   "email": "taransingh2812@gmail.com",
-                                  "Instagram": "tx5ingh",
+                                  "Instagram": "https://www.instagram.com/tx5ingh/",
                                   "LinkedIn": "https://www.linkedin.com/in/taransingh2812/",
                                   "phone_number": "available on request"
                                   }
