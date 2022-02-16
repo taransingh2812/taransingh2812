@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taransingh2812
+- 👋 Hi, I’m @taransingh2812, Originally known as Taran Preet Singh of Age 21
 - 👀 I’m interested in Learning new technologies and get my expertise in them by creating range of projects
 - 🌱 I’m currently learning React, Next JS and many other web development languages.
 - 💞️ I’m looking to collaborate on ...
