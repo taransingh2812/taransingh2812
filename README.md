@@ -24,23 +24,6 @@ taransingh2812/taransingh2812 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9709
-Fork on GitHub
-2346
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm TARAN PREET SINGH</h1>
 <h3 align="center">A passionate Web/Software Developer, who loves to work on New technologies and make great projects out of them.</h3>
 
