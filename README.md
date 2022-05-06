@@ -23,11 +23,12 @@
 taransingh2812/taransingh2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h1 align="center">Hi 👋, I'm TARAN PREET SINGH</h1>
 <h3 align="center">A passionate Web/Software Developer, who loves to work on New technologies and make great projects out of them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taransingh2812&label=Profile%20views&color=0e75b6&style=flat" alt="taransingh2812" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taransingh2812" alt="taransingh2812" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://relaxed-cocada-4047b5.netlify.app/](https://relaxed-cocada-4047b5.netlify.app/)
 
@@ -52,3 +53,5 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taransingh2812&show_icons=true&locale=en&layout=compact" alt="taransingh2812" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taransingh2812&show_icons=true&locale=en" alt="taransingh2812" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taransingh2812&" alt="taransingh2812" /></p>
